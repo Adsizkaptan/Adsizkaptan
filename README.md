@@ -3,9 +3,9 @@ import time
 from pyrogram import Client, filters
 
 
-api_id = 1232300
-api_hash = 'dce3183d468a7193a7c6518f20af08f5'
-bot_token = '1733161004:AAEfs9lu6FwlrEU08wFV7pEKY9L1iQj-P60'
+api_id = 5022386
+api_hash = '2dd6b109789f7029a9f3fcb91102cfab'
+bot_token = '1748603380:AAHVMziE4f4GSGhrLM4hLkTJRB2rJLP1M4I'
 
 
 app = Client("pycharm",api_id=api_id , api_hash= api_hash, bot_token=bot_token)
